@@ -1,0 +1,1 @@
+osmosisd # Osmosis validator and client binary
