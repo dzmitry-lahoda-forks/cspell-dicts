@@ -132,3 +132,4 @@ wei
 weth
 wyre
 xchf
+MEV # extraction of value from transaction reordering inside signle block or amid several blocks
